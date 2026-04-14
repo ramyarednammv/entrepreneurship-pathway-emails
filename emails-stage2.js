@@ -87,7 +87,7 @@ Object.assign(window.EMAIL_DATA, {
   url: 'https://home.mindvalley.com/quests/en-superbrain',
   body:
     "# \"There Is No Such Thing as a Good or Bad Memory — Only a Trained and Untrained One.\"\n\n" +
-    "![Superbrain](https://storyblok-cdn.mindvalley.com/f/60579/1920x1080/2f4e7fe7c7/sb_questcover_1920x1080_en.webp)\n\n" +
+    "![Superbrain](https://storyblok-cdn.mindvalley.com/f/60579/1920x1080/daac23de4a/jim-kwik-16_9.jpg)\n\n" +
     "That's Jim Kwik. And he would know — he grew up as \"the boy with the broken brain\" after a childhood head injury left him struggling to read until age seven.\n\n" +
     "Today he's trained the minds of executives at Google, Nike, and SpaceX.\n\n" +
     "Tomoko, a lawyer in Tokyo, started Superbrain because she kept forgetting client details in meetings. Embarrassing, costly, stressful. After week one, she memorized a 30-item list in under two minutes — a party trick, sure. But the real shift? She stopped bringing notes to meetings entirely. Her clients thought she'd been studying their files for hours.\n\n" +
@@ -155,7 +155,7 @@ Object.assign(window.EMAIL_DATA, {
   url: 'https://home.mindvalley.com/quests/en-everyday-bliss',
   body:
     "# Most Programs Make You Wait. This One Doesn't.\n\n" +
-    "![Everyday Bliss](https://storyblok-cdn.mindvalley.com/f/60579/1920x1080/a6e9c32a80/eb_questcover_1920x1080_en.webp)\n\n" +
+    "![Everyday Bliss](https://storyblok-cdn.mindvalley.com/f/60579/1920x1080/a2b20f2e02/sc_trainers_paul-mckenna-d.jpg)\n\n" +
     "Paul McKenna doesn't ask you to journal or meditate for 30 days before you feel something. That's what makes Everyday Bliss different from everything else you've tried.\n\n" +
     "Kai, a nurse in Vancouver, downloaded the app on a Thursday night after a brutal 14-hour shift. They did the first exercise — ten minutes, lying in bed, headphones on.\n\n" +
     "\"I woke up the next morning and something was different,\" Kai said. \"Not dramatic. Just... lighter. Like I'd put something down that I didn't know I was carrying.\"\n\n" +
@@ -223,7 +223,7 @@ Object.assign(window.EMAIL_DATA, {
   url: 'https://home.mindvalley.com/quests/en-becoming-focused-and-indistractable',
   body:
     "# Every Skill You Want to Build Depends on One Underlying Ability: Focus\n\n" +
-    "![Becoming Focused](https://storyblok-cdn.mindvalley.com/f/60579/1920x1080/47e2d2f7cb/bf_questcover_1920x1080_en.webp)\n\n" +
+    "![Becoming Focused](https://storyblok-cdn.mindvalley.com/f/60579/1200x770/14d33c8e57/bfi_lp_signup_top_d.jpg)\n\n" +
     "Think about it. Learning AI, building a business, writing a book, getting fit — none of it happens without sustained attention. And that's exactly what the modern world is engineered to steal from you.\n\n" +
     "Elena, a product manager in Berlin, realized she hadn't finished a single book in two years. Not because she didn't want to read — because she couldn't sit with one thing for more than 15 minutes without reaching for her phone.\n\n" +
     "\"I thought I had ADHD,\" she said. \"Nir showed me I didn't have a focus problem. I had a *trigger* problem. That distinction changed everything.\"\n\n" +
