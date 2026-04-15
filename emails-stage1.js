@@ -1,6 +1,6 @@
 // ─────────────────────────────────────────────────────────
 //  Stage 1: Masterclass Invite Sequences (12 emails, 4 funnels)
-//  Exponential Entrepreneur Pathway — Rewritten per feedback v2
+//  Exponential Entrepreneur Pathway — Quality upgrade v3
 // ─────────────────────────────────────────────────────────
 
 Object.assign(window.EMAIL_DATA, {
@@ -48,8 +48,10 @@ Object.assign(window.EMAIL_DATA, {
     "A solo consultant used the frameworks from the masterclass to build a client onboarding system that runs itself. He went from capping at 8 clients (because onboarding ate all his time) to managing 22 — without hiring anyone.\n\n" +
     "These are not tech people. They are coaches, consultants, creators. They just learned the right frameworks.\n\n" +
     "Here is what that looks like in practice:\n\n" +
-    "{{STORY}}\nhttps://res.cloudinary.com/mindvalley/image/fetch/f_auto,q_auto,w_400,h_400,c_fill,dpr_1.7/https://storage.googleapis.com/mv-stories/34620/IMG_20250816_171412287_HDR_PORTRAIT.jpg\n**\"The task would have taken me at least a day. AI did it in seconds\"**\nLisa Wright, Communication Manager, Northampton, United Kingdom\n\n" +
-    "{{STORY}}\nhttps://res.cloudinary.com/mindvalley/image/fetch/f_auto,q_auto,w_400,h_400,c_fill,dpr_1.7/https://storage.googleapis.com/mv-stories/36207/camera-photo-1qs6yu73fts.png\n**\"I built AI systems that let me run a one-person business...\"**\nHelen Chang, Founder, Portland, United States\n\n" +
+    "{{STORY}}\nhttps://res.cloudinary.com/mindvalley/image/fetch/f_auto,q_auto,w_400,h_400,c_fill,dpr_1.7/https://storage.googleapis.com/mv-stories/34620/IMG_20250816_171412287_HDR_PORTRAIT.jpg\n**\\\"The task would have taken me at least a day. AI did it in seconds\\\"**\nLisa Wright, Communication Manager, Northampton, United Kingdom\n\n" +
+    "{{STORY}}\nhttps://res.cloudinary.com/mindvalley/image/fetch/f_auto,q_auto,w_400,h_400,c_fill,dpr_1.7/https://storage.googleapis.com/mv-stories/36207/camera-photo-1qs6yu73fts.png\n**\\\"I built AI systems that let me run a one-person business...\\\"**\nHelen Chang, Founder, Portland, United States\n\n" +
+    "{{STORY}}\nhttps://res.cloudinary.com/mindvalley/image/fetch/f_auto,q_auto,w_400,h_400,c_fill,dpr_1.7/https://storage.googleapis.com/mv-stories/35790/IMG_1321.jpg\n**\\\"At 63, I went from fearing being left behind by AI to feeling energized, capable, and excited\\\"**\nKandace Trapane, Writer, Herriman, United States\n\n" +
+    "{{STORY}}\nhttps://res.cloudinary.com/mindvalley/image/fetch/f_auto,q_auto,w_400,h_400,c_fill,dpr_1.7/https://storage.googleapis.com/mv-stories/34723/Screenshot%202025-09-03%20at%2016.49.49.png\n**\\\"I wanted an automated way of handling finances to save incredible weekly time\\\"**\nMarie Dedikova, Software Engineer, Cambridge, United Kingdom\n\n" +
     "Inside the masterclass, we teach the **ACE Communication Method** — a framework for getting dramatically better output from AI by structuring how you talk to it. We cover building personalized AI assistants that handle your specific workflows. And we walk through computational thinking — the mental models that let you see opportunities for AI that most people miss.\n\n" +
     "The masterclass is 81 minutes. It is free. Over 1.5 million people have watched it.\n\n" +
     "[Watch the free Amplify masterclass now](https://www.mindvalley.com/amplify/masterclass)\n\n" +
@@ -68,6 +70,7 @@ Object.assign(window.EMAIL_DATA, {
   url: 'https://www.mindvalley.com/amplify/masterclass',
   body:
     "# Last Call — Plus One Prompt That Changed My Mornings\n\n" +
+    "![Vishen, Manon Dave & Vykintas](https://storyblok-cdn.mindvalley.com/f/60579/1984x1116/b2ffc3c025/collage_3authors.png)\n\n" +
     "This is my last email about the Amplify masterclass. So let me give you something real before I go.\n\n" +
     "Here is one prompt I use every morning:\n\n" +
     "*\"Act as my chief of staff. Review my calendar for today, identify the 3 highest-leverage tasks, and draft a plan for completing them in 4 hours. Deprioritize everything else.\"*\n\n" +
@@ -131,8 +134,10 @@ Object.assign(window.EMAIL_DATA, {
     "So Jim made a decision: if his brain was broken, he would figure out how to fix it. He spent two decades studying neuroscience and accelerated learning. He did not just catch up — he became the world's leading brain performance coach. Today he coaches executives at Google, SpaceX, Nike, and Harvard. He has trained Oprah and Will Smith. His methods have reached over 200 million people.\n\n" +
     "If a boy with a broken brain can become the person who teaches the CEOs of the world's biggest companies how to think — imagine what these techniques could do for a brain that is not broken, just untrained.\n\n" +
     "People who have taken the full program say it best:\n\n" +
-    "{{STORY}}\nhttps://res.cloudinary.com/mindvalley/image/fetch/f_auto,q_auto,w_400,h_400,c_fill,dpr_1.7/https://storage.googleapis.com/mv-stories/22417/DO7A6283%201.jpg\n**\"Now people turn to ME to remember names, dates, numbers and directions\"**\nMichael Ruta, Topsfield, United States\n\n" +
-    "{{STORY}}\nhttps://res.cloudinary.com/mindvalley/image/fetch/f_auto,q_auto,w_400,h_400,c_fill,dpr_1.7/https://storage.googleapis.com/mv-stories/16680/87a1caeafdcdea9e4e452d62488580f3.jpg\n**\"I can first and foremost remember everybody's name\"**\nShannon Connolly, Clermont, United States\n\n" +
+    "{{STORY}}\nhttps://res.cloudinary.com/mindvalley/image/fetch/f_auto,q_auto,w_400,h_400,c_fill,dpr_1.7/https://storage.googleapis.com/mv-stories/22417/DO7A6283%201.jpg\n**\\\"Now people turn to ME to remember names, dates, numbers and directions\\\"**\nMichael Ruta, Topsfield, United States\n\n" +
+    "{{STORY}}\nhttps://res.cloudinary.com/mindvalley/image/fetch/f_auto,q_auto,w_400,h_400,c_fill,dpr_1.7/https://storage.googleapis.com/mv-stories/16680/87a1caeafdcdea9e4e452d62488580f3.jpg\n**\\\"I can first and foremost remember everybody's name\\\"**\nShannon Connolly, Clermont, United States\n\n" +
+    "{{STORY}}\nhttps://res.cloudinary.com/mindvalley/image/fetch/f_auto,q_auto,w_400,h_400,c_fill,dpr_1.7/https://storage.googleapis.com/mv-stories/4820/428de07c-15c7-473b-aeb5-cbdc978770d9.jpeg\n**\\\"It changed my life completely\\\"**\nHonouehara, Setagaya, Japan\n\n" +
+    "{{STORY}}\nhttps://res.cloudinary.com/mindvalley/image/fetch/f_auto,q_auto,w_400,h_400,c_fill,dpr_1.7/https://storage.googleapis.com/mv-stories/9134/ce5211b1206a84c9e2740a52797e2719.jpg\n**\\\"This program was truly transformational\\\"**\nPascal Anene, Oslo, Norway\n\n" +
     "[Watch Jim Kwik's free Superbrain masterclass](https://www.mindvalley.com/superbrain/masterclass)\n\n" +
     "**The Mindvalley Team**\n\n" +
     "P.S. The people who remember names are the people who get remembered. It is the simplest unfair advantage in business."
@@ -148,6 +153,7 @@ Object.assign(window.EMAIL_DATA, {
   url: 'https://www.mindvalley.com/superbrain/masterclass',
   body:
     "# Last Call — Jim Kwik's Free Masterclass\n\n" +
+    "![Jim Kwik](https://storyblok-cdn.mindvalley.com/f/60579/1920x1080/daac23de4a/jim-kwik-16_9.jpg)\n\n" +
     "This is Jim Kwik's most popular masterclass. Over 2 million people have watched it. It is free — and it is 46 minutes that could change how your brain performs for the rest of your life.\n\n" +
     "Here is what you will walk away with:\n\n" +
     "→ Advanced memory techniques you can use the same day\n→ Speed reading methods that double your intake\n→ The 3 C's of Mental Mastery — Jim's core brain-training framework\n→ Focus and retention techniques used by the world's top performers\n\n" +
@@ -207,8 +213,10 @@ Object.assign(window.EMAIL_DATA, {
     "This is not placebo. This is neuroscience. And it is one of the foundational techniques Paul teaches inside the Everyday Bliss masterclass.\n\n" +
     "What you just tried is the simplified version. Inside the masterclass, Paul teaches the full technique with specific mental imagery and emotional anchoring that makes the shift permanent.\n\n" +
     "The results speak for themselves:\n\n" +
-    "{{STORY}}\nhttps://res.cloudinary.com/mindvalley/image/fetch/f_auto,q_auto,w_400,h_400,c_fill,dpr_1.7/https://storage.googleapis.com/mv-stories/24214/4AA9E42A-ECBB-4087-A6F2-FCCFE0BEF331.jpeg\n**\"More helpful than any program and in-person counseling\"**\nFabian Chavez, Phoenix, United States\n\n" +
-    "{{STORY}}\nhttps://res.cloudinary.com/mindvalley/image/fetch/f_auto,q_auto,w_400,h_400,c_fill,dpr_1.7/https://storage.googleapis.com/mv-stories/6198/6f35e6dc-6787-43ec-bf86-92f668009a1b.jpeg\n**\"Sleeping better, feeling better and getting more done\"**\nJuaniece, Huntington Beach, United States\n\n" +
+    "{{STORY}}\nhttps://res.cloudinary.com/mindvalley/image/fetch/f_auto,q_auto,w_400,h_400,c_fill,dpr_1.7/https://storage.googleapis.com/mv-stories/24214/4AA9E42A-ECBB-4087-A6F2-FCCFE0BEF331.jpeg\n**\\\"More helpful than any program and in-person counseling\\\"**\nFabian Chavez, Phoenix, United States\n\n" +
+    "{{STORY}}\nhttps://res.cloudinary.com/mindvalley/image/fetch/f_auto,q_auto,w_400,h_400,c_fill,dpr_1.7/https://storage.googleapis.com/mv-stories/6198/6f35e6dc-6787-43ec-bf86-92f668009a1b.jpeg\n**\\\"Sleeping better, feeling better and getting more done\\\"**\nJuaniece, Huntington Beach, United States\n\n" +
+    "{{STORY}}\nhttps://res.cloudinary.com/mindvalley/image/fetch/f_auto,q_auto,w_400,h_400,c_fill,dpr_1.7/https://storage.googleapis.com/mv-stories/25979/JP%20Profile%20Pic%201.jpg\n**\\\"Better equipped to handle anxiety when public speaking\\\"**\nJoshua Petty, Albuquerque, United States\n\n" +
+    "{{STORY}}\nhttps://res.cloudinary.com/mindvalley/image/fetch/f_auto,q_auto,w_400,h_400,c_fill,dpr_1.7/https://storage.googleapis.com/mv-stories/35859/alaric-bozza.jpg\n**\\\"Moved from bereavement to resilient, calm living\\\"**\nAlaric Bozza, Grasse, France\n\n" +
     "[Watch Paul McKenna's free masterclass](https://www.mindvalley.com/bliss/masterclass)\n\n" +
     "**The Mindvalley Team**\n\n" +
     "P.S. Most people say they feel the shift within the first 15 minutes of the masterclass. Not after days of practice — during the masterclass itself. That is the difference with Paul McKenna."
@@ -224,6 +232,7 @@ Object.assign(window.EMAIL_DATA, {
   url: 'https://www.mindvalley.com/bliss/masterclass',
   body:
     "# Last Call — Paul McKenna's Free Masterclass\n\n" +
+    "![Paul McKenna](https://a.storyblok.com/f/60579/1920x1080/a2b20f2e02/sc_trainers_paul-mckenna-d.jpg)\n\n" +
     "This is my last email about this masterclass, so let me be direct.\n\n" +
     "Over 10 million people have experienced Paul McKenna's work. The Times of London called him \"one of the world's most important modern self-help gurus.\" His books have sold in 32 languages. He has been featured on Ellen, Good Morning America, and every major network.\n\n" +
     "And this masterclass — where he teaches you to reprogram your subconscious mind and eliminate stress at the source — is free.\n\n" +
@@ -285,8 +294,10 @@ Object.assign(window.EMAIL_DATA, {
     "He taught companies how to make things addictive. Then he wrote the cure. That is why his framework works — he understands the system from both sides.\n\n" +
     "Unlike every productivity book that tells you to delete your apps or use willpower, Nir's approach addresses the root cause: internal triggers. Distraction is not caused by your phone. It is caused by emotional discomfort — boredom, anxiety, frustration. The phone is just the escape route.\n\n" +
     "People who have gone through the full program report measurable shifts:\n\n" +
-    "{{STORY}}\nhttps://res.cloudinary.com/mindvalley/image/fetch/f_auto,q_auto,w_400,h_400,c_fill,dpr_1.7/https://storage.googleapis.com/mv-stories/19390/f660e091311d599d697d15e22e699609.jpg\n**\"I feel 3x more productive post-program\"**\nHector Delgado, Learning Producer, Kuala Lumpur, Malaysia\n\n" +
-    "{{STORY}}\nhttps://res.cloudinary.com/mindvalley/image/fetch/f_auto,q_auto,w_400,h_400,c_fill,dpr_1.7/https://storage.googleapis.com/mv-stories/26639/75E6E742-6ECC-4AF7-B713-42F7E5A66AE3.jpeg\n**\"I saw my score go up by 31% and now it is about making sure I keep practicing the new skills I have learned\"**\nRhia Docherty, Fundraising Director, London, United Kingdom\n\n" +
+    "{{STORY}}\nhttps://res.cloudinary.com/mindvalley/image/fetch/f_auto,q_auto,w_400,h_400,c_fill,dpr_1.7/https://storage.googleapis.com/mv-stories/19390/f660e091311d599d697d15e22e699609.jpg\n**\\\"I feel 3x more productive post-program\\\"**\nHector Delgado, Learning Producer, Kuala Lumpur, Malaysia\n\n" +
+    "{{STORY}}\nhttps://res.cloudinary.com/mindvalley/image/fetch/f_auto,q_auto,w_400,h_400,c_fill,dpr_1.7/https://storage.googleapis.com/mv-stories/26639/75E6E742-6ECC-4AF7-B713-42F7E5A66AE3.jpeg\n**\\\"I saw my score go up by 31% and now it is about making sure I keep practicing the new skills I have learned\\\"**\nRhia Docherty, Fundraising Director, London, United Kingdom\n\n" +
+    "{{STORY}}\nhttps://res.cloudinary.com/mindvalley/image/fetch/f_auto,q_auto,w_400,h_400,c_fill,dpr_1.7/https://storage.googleapis.com/mv-stories/20748/WhatsApp%20Image%202021-06-11%20at%2015.45.12.jpeg\n**\\\"My most significant improvement has been the amount of time spent on social media\\\"**\nVenance Roche, Marketing Strategy Consultant, Mumbai, India\n\n" +
+    "{{STORY}}\nhttps://res.cloudinary.com/mindvalley/image/fetch/f_auto,q_auto,w_400,h_400,c_fill,dpr_1.7/https://storage.googleapis.com/mv-stories/16769/wioleta-wydrych-coach-for-coaches-business-coach-manchester--1-.png\n**\\\"Now I am getting things done. I'm on fire!\\\"**\nWioleta Wydrych, Success Coach for Coaches, Glossop, United Kingdom\n\n" +
     "[Watch Nir Eyal's free masterclass](https://www.mindvalley.com/focus/masterclass)\n\n" +
     "**The Mindvalley Team**\n\n" +
     "P.S. Try the 10-minute timer today. The next time the urge hits, just set it and wait. You will be surprised how fast it passes."
@@ -302,6 +313,7 @@ Object.assign(window.EMAIL_DATA, {
   url: 'https://www.mindvalley.com/focus/masterclass',
   body:
     "# Last Call — Nir Eyal's Free Masterclass on Focus\n\n" +
+    "![Nir Eyal](https://storyblok-cdn.mindvalley.com/f/60579/1200x770/14d33c8e57/bfi_lp_signup_top_d.jpg)\n\n" +
     "This is our last email about this masterclass.\n\n" +
     "Here is what is inside: the complete Indistractable Model — Nir's step-by-step framework for becoming immune to overwhelm and developing powerful focus. It covers:\n\n" +
     "→ The four keys to becoming indistractable\n→ Where 90% of your distractions actually come from (it is not your phone)\n→ The 10-minute distraction breaker technique\n→ How to replace your to-do list with Nir's Time Box Calendar system\n→ How to defuse smartphone distractions in 30 seconds\n\n" +
